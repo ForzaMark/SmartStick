@@ -1,0 +1,2 @@
+# SmartStick
+Ein intelligenter Blindenstock
